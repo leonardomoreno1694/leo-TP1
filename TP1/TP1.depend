@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554513034 source:c:\users\user\desktop\leo\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1554513021 source:c:\users\user\desktop\leo\tp1\calc.c
+
+1554513021 c:\users\user\desktop\leo\tp1\calc.c
+
+1554513304 c:\users\user\desktop\leo\tp1\calc.h
+	<stdio.h>
+	<stdlib.h>
+
